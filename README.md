@@ -1,7 +1,5 @@
 ## Welcome to guoygang's blog
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### X86-64 Architectures
 
 [X86-64 Asm](https://guoygang.github.io/X86-64-index.md)
@@ -15,7 +13,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [EVM Sandbox Design](https://guoygang.github.io/evm-sandbox-index.md)
 
-[......](url://)
+[......]()
 
 
 
